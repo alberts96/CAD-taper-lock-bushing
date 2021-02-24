@@ -2,6 +2,6 @@
 A CAD project for the manufacturing of a taper lock bushing
 
 ## Processing cyle
-![processing-cycle](https://octodex.github.com/images/yaktocat.png)
+<img src="processing-cycle.pdf" alt="processing cycle"></img>
 
 
